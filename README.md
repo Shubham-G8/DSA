@@ -1,4 +1,4 @@
-# DSA
+# DSA(FileCompression-Project)
 Huffman Coding/ Compression
 What is this project about?
 
